@@ -4,10 +4,6 @@
 
 ---
 
-## 🔑 Solution [here]()
-
----
-
 ## ⚠️ Disclaimer ⚠️
 
 <blockquote style="background-color: #fffbea; border-left: 6px solid #f7c948; padding: 1em; font-size: 15px; line-height: 1.5;">
@@ -21,29 +17,9 @@
 
 ---
 
-## ⚙️ <ins>Lab Environment Setup</ins>
+## Download all the necessary files andupdates from here: [Download](https://drive.google.com/drive/folders/1MmVik6QnOvB1cBCEn6RKVeEbsesdjVwT)
 
-> ✅ **NOTE:** *Watch Full Video to get Full Scores on Check My Progress.*
-
-**🌐Launch Cloud Shell:**
-Start your Google CloudShell session by [clicking here](https://console.cloud.google.com/home/dashboard?project=&pli=1&cloudshell=true).
-
-## 💻 **Execute in Cloud Shell** 
-```
-curl -LO raw.githubusercontent.com/Arcade-With-Us/Google-Cloud-Labs/refs/heads/main/Fundamentals%20of%20Cloud%20Logging/GSP610.sh
-
-sudo chmod +x GSP610.sh
-
-./GSP610.sh
-```
 ---
-
-## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
-
-Your hard work and determination paid off! 💻
-You've successfully completed the lab. **Way to go!** 🚀
-
-
 <div align="center" style="padding: 5px;">
   <h3>📱 Join the Arcade With Us Community</h3>
   
