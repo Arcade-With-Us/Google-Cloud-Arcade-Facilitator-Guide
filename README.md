@@ -18,7 +18,7 @@
 ---
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?logo=googlecloud)
 ![Made by Babai](https://img.shields.io/badge/Made%20By-Abir%20Dey-yellow)
-![Subscribe](https://img.shields.io/badge/YouTube-Arcade%20With%20Us-red?logo=youtube)(https://www.youtube.com/@ARCADEWITHUS_We)
+[![Subscribe](https://img.shields.io/badge/YouTube-Arcade%20With%20Us-red?logo=youtube)](https://www.youtube.com/@ARCADEWITHUS_We)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Tripti%20Gupta-blue?logo=linkedin)(https://www.linkedin.com/in/tripti-gupta-a28a6832b)  
 ![Github](https://img.shields.io/badge/GitHub-Arcade%20With%20Us-white?logo=github)(https://github.com/Arcade-With-Us)
 ---
