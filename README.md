@@ -16,13 +16,14 @@
 - **DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud [Google Cloud Skill Boost website](https://www.cloudskillsboost.google/)** 🙏
 
 ---
-<h3 align="left">🌐 Socials:</h3>
+<h3 align="centre">🌐 Join Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abir-dey-a34914254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyak-mukherjee-203558275" height="30" width="40" /></a>
 <a href="https://facebook.com/Babai%20Sona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreyak.mukherjee" height="30" width="40" /></a>
 <a href="https://instagram.com/dey_babai001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukherjeeshreyak" height="30" width="40" /></a>
 <a href="https://youtube.com/@https://youtube.com/@arcadewithus_we" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codagic" height="30" width="40" /></a>
-
+---
+  
 ## Download all the necessary files andupdates from here: [Download](https://drive.google.com/drive/folders/1MmVik6QnOvB1cBCEn6RKVeEbsesdjVwT)
 
 ## ⭐ If you find this useful...
