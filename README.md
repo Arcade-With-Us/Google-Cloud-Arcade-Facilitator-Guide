@@ -16,6 +16,11 @@
 - **DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud [Google Cloud Skill Boost website](https://www.cloudskillsboost.google/)** 🙏
 
 ---
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?logo=googlecloud)
+![Last Updated](https://img.shields.io/badge/Updated-April%202025-brightgreen)
+![Made by Babai](https://img.shields.io/badge/Made%20By-Abir%20Dey-yellow)
+[![Subscribe](https://img.shields.io/badge/YouTube-Arcade%20With%20Us-red?logo=youtube)](https://www.youtube.com/@ARCADEWITHUS_We)
+---
 
 ## Download all the necessary files andupdates from here: [Download](https://drive.google.com/drive/folders/1MmVik6QnOvB1cBCEn6RKVeEbsesdjVwT)
 
