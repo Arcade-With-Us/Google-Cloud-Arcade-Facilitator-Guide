@@ -2,6 +2,8 @@
 ✨ Google-Cloud-Arcade-Facilitator-Guide ✨
 </h1>
 
+---
+
 ## ⚠️ Disclaimer ⚠️
 
 <blockquote style="background-color: #fffbea; border-left: 6px solid #f7c948; padding: 1em; font-size: 15px; line-height: 1.5;">
