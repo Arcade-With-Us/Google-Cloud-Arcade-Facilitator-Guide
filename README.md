@@ -20,6 +20,7 @@
 [![Subscribe](https://img.shields.io/badge/YouTube-Arcade%20With%20Us-red?logo=youtube)](https://www.youtube.com/@ARCADEWITHUS_We)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tripti%20Gupta-blue?logo=linkedin)](https://www.linkedin.com/in/tripti-gupta-a28a6832b)  
 [![Github](https://img.shields.io/badge/GitHub-Arcade%20With%20Us-white?logo=github)](https://github.com/Arcade-With-Us)
+[![WhatsApp](https://img.shields.io/badge/Instagram-Arcade%20With%20Us-green?logo=WhatsApp)](https://chat.whatsapp.com/KN3NvYNTJvU5xMCVTORJtS)
 ---
 
 ## Download all the necessary files andupdates from here: [Download](https://drive.google.com/drive/folders/1MmVik6QnOvB1cBCEn6RKVeEbsesdjVwT)
