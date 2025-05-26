@@ -1,5 +1,5 @@
 <h1 align="center">
-✨ Google-Cloud-Arcade-Facilitator-Guide ✨
+✨ Google Cloud Arcade Facilitator Guide ✨
 </h1>
 
 ---
