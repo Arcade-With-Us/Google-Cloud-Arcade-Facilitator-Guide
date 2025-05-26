@@ -26,6 +26,11 @@
 <a href="https://youtube.com/@https://youtube.com/@arcadewithus_we" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codagic" height="30" width="40" /></a>
 
 ---  
+
+## 📚 About This Repository
+
+Welcome to the **Google Cloud Facilitator Progarm Ultimate Guide** for completing Google Cloud Skill Badges efficiently. This repository is your one-stop guide to **earning Google Cloud Skill Badges** with minimal effort and maximum efficiency.   
+
 ## **`Download all the necessary files andupdates from here:`** [**Download**](https://drive.google.com/drive/folders/1MmVik6QnOvB1cBCEn6RKVeEbsesdjVwT)
 ---
 # ✍️ Created by: [**Abir Dey**](https://linkedin.com/in/https://www.linkedin.com/in/abir-dey-a34914254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
